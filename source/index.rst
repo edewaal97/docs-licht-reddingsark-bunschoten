@@ -5,7 +5,6 @@ Deze handleiding is geschreven om aanpassingen te kunnen maken in de verlichting
 .. toctree::
    in-en-uitschakelen
    lampen-verhangen
-   scenes-etc
 
 Apparatuur
 -----------
